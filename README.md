@@ -35,7 +35,7 @@ markdown
 Copy code
 # Plant Disease Detection using YOLOv8
 
-![Plant Disease Detection](plant_disease_detection.ipynb)
+![Plant Disease Detection](photo.jpeg)
 
 ## Overview
 
